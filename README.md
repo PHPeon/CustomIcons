@@ -1,2 +1,1 @@
-# CustomIcons
-Custom icons :P, free for anyone to use :)
+how to manually put these icons is described in the wiki page
